@@ -6,4 +6,4 @@
 
 - javascript, css, html
 - link website:
-  <https://haniekid.github.io/btl-ttcsn/html/TrangChu.html>
+  <https://sangtovan.github.io/TTCSN/html/TrangChu.html>
